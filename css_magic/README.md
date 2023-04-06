@@ -51,3 +51,35 @@
 </html>
 ```
 
+### External 
+
+```
+style.css
+====
+body {
+    background-color: #ccdbdd;
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: rgb(210, 204, 204);
+    width: 10%;
+    height: 0px;
+}
+
+
+==== Index.html 
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>❤️ profile 🙈</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+```
+
